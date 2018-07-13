@@ -1,0 +1,19 @@
+{
+  "name": "comp397-lesson1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasssim2nine/COMP397-Lesson1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jasssim2nine/COMP397-Lesson1/issues"
+  },
+  "homepage": "https://github.com/jasssim2nine/COMP397-Lesson1#readme"
+}
